@@ -1,0 +1,4 @@
+node_modules/
+.vscode/
+*.log
+.DS_Store   what is the name of the file
